@@ -1,11 +1,14 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
 export default defineNuxtConfig({
   modules: [
     "@nuxt/content",
     '@vueuse/nuxt',
     'nuxt-icon'
   ],
-  css: ["vuetify/lib/styles/main.sass"],
+  css: ["vuetify/lib/styles/main.sass"
+
+  ],
   build: {
     transpile: ["vuetify"],
   },
