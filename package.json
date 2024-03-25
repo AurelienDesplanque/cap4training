@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "sass": "^1.69.5",
-    "vuetify": "^3.4.4"
+    "vuetify": "^3.5.11"
   }
 }
