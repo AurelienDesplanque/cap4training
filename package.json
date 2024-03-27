@@ -19,7 +19,7 @@
     "postcss": "^8.4.35"
   },
   "dependencies": {
-    "sass": "^1.69.5",
+    "sass": "^1.72.0",
     "vuetify": "^3.4.4"
   }
 }
